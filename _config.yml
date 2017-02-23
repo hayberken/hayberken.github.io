@@ -1,0 +1,8 @@
+title: khayber.github.io
+description: My github page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
